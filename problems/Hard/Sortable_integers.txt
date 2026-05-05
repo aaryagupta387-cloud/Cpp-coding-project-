@@ -1,0 +1,10 @@
+Problem: Sum of Sortable Integers
+
+Status: Not Solved
+
+Reason:
+This problem was difficult and required advanced logic.
+
+I understood that we need to check values of k that divide n and verify sorting using grouping, but I was not able to fully implement it.
+
+I will try to solve it in future.
